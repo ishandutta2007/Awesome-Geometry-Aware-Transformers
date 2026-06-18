@@ -67,6 +67,18 @@ Geometry-Aware Transformers inject explicit spatial, topological, or physical in
 * **Core Benefit:** Ensures robustness against re-meshing, viewpoint distortions, and variable camera trajectories.
 * **Detailed Info:** [3D Mesh & Vision-Language Transformers](docs/mesh_vision_transformers.md)
 
+## 📈 Star History
+
+<div align="center">
+   <a href="https://www.star-history.com/#ishandutta2007/Awesome-Geometry-Aware-Transformers&Date">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ishandutta2007/Awesome-Geometry-Aware-Transformers&type=Date&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ishandutta2007/Awesome-Geometry-Aware-Transformers&type=Date" />
+      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=ishandutta2007/Awesome-Geometry-Aware-Transformers&type=Date" />
+    </picture>
+   </a>
+</div>
+
 ## 🛠️ Contributing
 
 Contributions are welcome! If you have a suggestion or found a paper that should be here, please open an issue or submit a pull request.
